@@ -27,6 +27,11 @@
   color: var(--secondary-color);
 }
 
+.nav__btns h5 {
+  font-size: 1.5rem;
+  font-family: Georgia, "Times New Roman", Times, serif;
+}
+
 .mobile__menu {
   font-size: 1.3rem;
   color: var(--heading-color);
