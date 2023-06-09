@@ -2,14 +2,15 @@ import React from "react";
 import "./about.css";
 
 const About = () => {
+  window.scrollTo(0, 0);
   return (
     <div className="about-container">
       <div className="about-content">
         <h1>About Us</h1>
         <p>
-          Welcome to Travel World! We are passionate about
-          providing unforgettable travel experiences and helping you create
-          memories that last a lifetime.
+          Welcome to Travel World! We are passionate about providing
+          unforgettable travel experiences and helping you create memories that
+          last a lifetime.
         </p>
         <p>
           At our company, we believe that travel should be more than just

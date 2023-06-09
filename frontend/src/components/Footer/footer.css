@@ -13,7 +13,6 @@
   font-size: 1rem;
 }
 
-
 .social__links span a {
   text-decoration: none;
   color: var(--heading-color);
@@ -36,17 +35,60 @@
   font-size: 1.1rem;
 }
 
+.contact-info {
+  padding: 3%;
+  font-size: 1.1rem;
+}
+
+.contact-info li {
+  margin-bottom: 4%;
+  color: var(--text-color);
+}
+
+.contact-info i {
+  color: var(--secondary-color);
+}
+
 .copyright {
   color: var(--text-color);
   font-size: 1rem;
 }
 
 @media only screen and (max-width: 992px) {
-  .footer .logo img{
+  .footer .logo img {
     width: 20%;
   }
 
-  .footer .logo p {
-    display: none;
+  .social__links {
+    justify-content: center;
+    padding: 2%;
+  }
+
+  .footer__link-title {
+    font-size: 1.2rem;
+    padding-top: 12%;
+    color: var(--secondary-color);
+  }
+
+  .footer {
+    text-align: center;
+  }
+
+  .contact-info {
+    padding: 2%;
+  }
+
+  .contact-info li {
+    font-size: 1.1rem;
+    margin-bottom: 4%;
+    color: var(--text-color);
+  }
+
+  .contact-info i {
+    color: var(--secondary-color);
+  }
+
+  .copyright {
+    font-size: 0.8rem;
   }
 }

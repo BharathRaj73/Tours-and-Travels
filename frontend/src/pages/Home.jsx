@@ -15,6 +15,7 @@ import Testimonials from "../components/Testimonial/Testimonials";
 import Newsletter from "../shared/Newsletter";
 
 const Home = () => {
+  window.scrollTo(0, 0);
   return (
     <>
       {/* ============hero section start=========== */}
@@ -148,7 +149,7 @@ const Home = () => {
         <Container>
           <Row>
             <Col lg="12">
-              <Subtitle subtitle={"Fans Love"} />
+              <Subtitle subtitle={"Travelers Love"} />
               <h2 className="testimonial__title">
                 What our travelers say about us
               </h2>

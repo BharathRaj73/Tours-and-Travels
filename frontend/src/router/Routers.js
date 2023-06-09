@@ -9,6 +9,7 @@ import SearchResultList from "./../pages/SearchResultList";
 import ThankYou from "../pages/ThankYou";
 import About from "../components/About Page/About";
 import Contact from "../components/Contact/Contact";
+import MasonryImagesGallery from "../components/Image-Gallery/MasonryImagesGallery";
 
 const Routers = () => {
   return (
@@ -18,6 +19,7 @@ const Routers = () => {
       <Route path="/about" element={<About />} />
       <Route path="/tours" element={<Tours />} />
       <Route path="/contact" element={<Contact />} />
+      <Route path="/gallery" element={<MasonryImagesGallery />} />
       <Route path="/tour/:id" element={<TourDetails />} />
       <Route path="/login" element={<Login />} />
       <Route path="/register" element={<Register />} />

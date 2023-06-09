@@ -37,7 +37,7 @@ const quick__links2 = [
 const Footer = () => {
   const year = new Date().getFullYear();
   return (
-    <footer className="footer">
+    <footer className="footer d-flex">
       <Container>
         <Row>
           <Col lg="5">
@@ -73,8 +73,8 @@ const Footer = () => {
               </div>
             </div>
           </Col>
-          <Col lg="2">
-            <h5 className="footer__link-title mb-4">Discover</h5>
+          <Col lg="2" md="3">
+            <h5 className="footer__link-title mb-4 ">Discover</h5>
             <ListGroup className="footer__quick-links">
               {quick__links.map((item, index) => (
                 <ListGroupItem key={index} className="ps-0 border-0">
@@ -83,7 +83,7 @@ const Footer = () => {
               ))}
             </ListGroup>
           </Col>
-          <Col lg="2">
+          <Col lg="2" md="3">
             <h5 className="footer__link-title">Quick Links</h5>
             <ListGroup className="footer__quick-links">
               {quick__links2.map((item, index) => (
@@ -93,39 +93,20 @@ const Footer = () => {
               ))}
             </ListGroup>
           </Col>
-          <Col lg="3">
-            <h5 className="footer__link-title">Contact</h5>
-            <ListGroup className="footer__quick-links">
-              <ListGroupItem className="ps-0 border-0 d-flex align-items-center gap-3">
-                <h6 className="mb-0 d-flex align-items-center gap-2">
-                  <span>
-                    <i className="ri-map-pin-line"></i>
-                  </span>
-                  Address:
-                </h6>
-                <p className="mb-0">Bangalore, India</p>
-              </ListGroupItem>
 
-              <ListGroupItem className="ps-0 border-0 d-flex align-items-center gap-3">
-                <h6 className="mb-0 d-flex align-items-center gap-2">
-                  <span>
-                    <i className="ri-mail-line"></i>{" "}
-                  </span>
-                  Email:
-                </h6>
-                <p className="mb-0">bharath@gmail.com</p>
-              </ListGroupItem>
-
-              <ListGroupItem className="ps-0 border-0 d-flex align-items-center gap-3">
-                <h6 className="mb-0 d-flex align-items-center gap-2">
-                  <span>
-                    <i className="ri-phone-fill"></i>{" "}
-                  </span>
-                  Phone:
-                </h6>
-                <p className="mb-0">7899676257</p>
-              </ListGroupItem>
-            </ListGroup>
+          <Col lg="3" md="5">
+            <h5 className="footer__link-title ">Contact</h5>
+            <ul className="contact-info ">
+              <li>
+                <i className="ri-map-pin-line"></i> Address: Bangalore, India
+              </li>
+              <li>
+                <i className="ri-mail-line"></i> Email: bharath@gmail.com
+              </li>
+              <li>
+                <i className="ri-phone-fill"></i> Phone: 7899676257
+              </li>
+            </ul>
           </Col>
           <Col lg="12" className="text-center pt-5">
             <p className="copyright">
