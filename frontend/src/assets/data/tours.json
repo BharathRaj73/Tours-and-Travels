@@ -2,24 +2,23 @@
   {
     "title": "Westminister Bridge",
     "city": "London",
-    "address": "Somewhere in London",
+    "address": "London, England",
     "distance": 300,
-    "price": 99,
+    "price": 299,
     "maxGroupSize": 10,
-    "desc": "this is the description",
+    "desc": "Westminster Bridge stands as a magnificent symbol of London's architectural splendor, spanning the tranquil waters of the River Thames. Its elegant Gothic design, adorned with intricate details, captures the essence of Victorian craftsmanship. From the bridge, visitors are treated to awe-inspiring vistas of the historic Palace of Westminster, home to the British Parliament, and the iconic Big Ben clock tower. The bridge's bustling ambiance, as bustling cars, buses, and pedestrians traverse its expanse, creates a vibrant tapestry of city life. A stroll across Westminster Bridge offers an unforgettable experience that encapsulates the timeless allure of England's capital.",
     "reviews": [],
-
     "photo": "/tour-images/tour-img01.jpg",
     "featured": true
   },
   {
-    "title": "Bali, Indonesia",
+    "title": "Bali",
     "city": "Bali",
-    "address": "Somewhere in Indonesia",
+    "address": "Bali, Indonesia",
     "distance": 400,
     "price": 99,
     "maxGroupSize": 8,
-    "desc": "this is the description",
+    "desc": "Bali, known as the Island of the Gods, is a tropical paradise nestled in the Indonesian archipelago. Its lush landscapes, golden beaches, and vibrant culture make it a dream destination for travelers from around the world. From the ancient temples that dot the island to the emerald green rice terraces, Bali offers a captivating blend of spirituality and natural beauty. Visitors can immerse themselves in the island's rich traditions, indulge in mouthwatering cuisine, and rejuvenate with traditional Balinese spa treatments. Whether seeking adventure, relaxation, or cultural exploration, Bali offers an enchanting escape that lingers in the hearts of all who visit.",
     "reviews": [],
 
     "photo": "/tour-images/tour-img02.jpg",
@@ -28,11 +27,11 @@
   {
     "title": "Beautiful Snowy Mountains ",
     "city": "Bangkok",
-    "address": "Somewhere in Thailand",
+    "address": " Thailand",
     "distance": 500,
-    "price": 99,
+    "price": 199,
     "maxGroupSize": 8,
-    "desc": "this is the description",
+    "desc": "Snowy Mountains, Bangkok is a captivating concept that blends the contrasting elements of a tropical metropolis and wintry landscapes. Located in the heart of Thailand's bustling capital, this imaginative attraction transports visitors into a world of enchantment and wonder. Amidst the urban jungle, a magical winter wonderland emerges, complete with artificial snow, ice sculptures, and exhilarating winter activities. The Snowy Mountains offer a unique escape from the city's heat, allowing visitors to embrace the thrill of skiing, snowboarding, or simply relishing the novelty of snow in a tropical setting. It's an extraordinary experience that combines the best of both worlds, leaving visitors with unforgettable memories of a winter oasis in the heart of Bangkok.",
     "reviews": [],
 
     "photo": "/tour-images/tour-img03.jpg",
@@ -41,24 +40,24 @@
   {
     "title": "Beautiful Sunrise, Thailand",
     "city": "Phuket",
-    "address": "Somewhere in Thailand",
+    "address": "Thailand",
     "distance": 500,
-    "price": 99,
+    "price": 199,
     "maxGroupSize": 8,
-    "desc": "this is the description",
+    "desc": "Sunrise Thailand in Phuket is a breathtaking coastal retreat that celebrates the magic of dawn. Nestled along the pristine shores of the Andaman Sea, this idyllic destination offers a front-row seat to awe-inspiring sunrises that paint the sky with vibrant hues. As the first rays of light gently illuminate the landscape, visitors can indulge in tranquil beach walks, practice yoga on the soft sand, or simply bask in the serenity of the moment. With its stunning natural beauty, gentle waves, and the soothing sound of lapping water, Sunrise Thailand in Phuket is a sanctuary of peace and renewal where each morning unfolds with the promise of a new day.",
     "reviews": [],
 
     "photo": "/tour-images/tour-img04.jpg",
     "featured": true
   },
   {
-    "title": "Nusa Pendia Bali, Indonesia",
+    "title": "Nusa Pendia Bali",
     "city": "Bali",
-    "address": "Somewhere in Indonesia",
+    "address": " Indonesia",
     "distance": 500,
     "price": 99,
     "maxGroupSize": 8,
-    "desc": "this is the description",
+    "desc": "Nusa Penida, Bali's hidden gem, is an enchanting island escape located just off the coast of mainland Bali, Indonesia. Known for its rugged cliffs, crystal-clear turquoise waters, and pristine beaches, Nusa Penida offers a secluded paradise for nature enthusiasts and adventure seekers. Explore its stunning landscapes, including iconic spots like Kelingking Beach and Angel's Billabong, where dramatic cliffs meet the azure sea. Snorkel or dive in the vibrant coral reefs, swim with manta rays, or embark on a thrilling hike to discover hidden waterfalls. Nusa Penida is a captivating destination that showcases the untouched beauty of Bali and promises unforgettable memories in a tranquil and untouched setting.",
     "reviews": [],
 
     "photo": "/tour-images/tour-img05.jpg",
@@ -67,11 +66,11 @@
   {
     "title": "Cherry Blossoms Spring",
     "city": "Tokyo",
-    "address": "Somewhere in Japan",
+    "address": " Japan",
     "distance": 500,
-    "price": 99,
+    "price": 399,
     "maxGroupSize": 8,
-    "desc": "this is the description",
+    "desc": "Cherry Blossom season in Tokyo is an enchanting spectacle that captivates locals and visitors alike. As winter fades away, the city transforms into a kaleidoscope of delicate pink and white blossoms. Parks and gardens, such as Ueno Park and Shinjuku Gyoen, become vibrant canvases, inviting people to stroll under the blooming trees. The fragrance of cherry blossoms fills the air, creating a sense of tranquility and beauty. From traditional hanami picnics to nighttime illuminations, Tokyo's cherry blossoms offer a magical experience, celebrating the fleeting nature of life and the renewal of spring. It's a time when the city comes alive with joy and celebration, making it an ideal moment to immerse yourself in Tokyo's rich cultural heritage.",
     "reviews": [],
 
     "photo": "/tour-images/tour-img06.jpg",
@@ -80,37 +79,25 @@
   {
     "title": "Holmen Lofoten, France",
     "city": "Paris",
-    "address": "Somewhere in France",
+    "address": " France",
     "distance": 500,
-    "price": 99,
+    "price": 299,
     "maxGroupSize": 8,
-    "desc": "this is the description",
+    "desc": "Holmen Lofoten is a picturesque coastal village nestled in the captivating landscapes of France's Lofoten Islands. Surrounded by towering mountains and sparkling fjords, it offers a serene and idyllic retreat for nature lovers and adventure enthusiasts. The village boasts charming traditional red and yellow fishing huts, adding a touch of vibrant color to the rugged coastal scenery. Visitors can immerse themselves in the rich maritime heritage, explore pristine beaches, try their hand at fishing, or embark on exhilarating hikes to witness breathtaking panoramic views. Holmen Lofoten is a hidden gem that showcases the untamed beauty of the French archipelago and promises an unforgettable experience for travelers seeking tranquility and natural splendor.",
     "reviews": [],
 
     "photo": "/tour-images/tour-img07.jpg",
     "featured": true
   },
-  {
-    "title": "Snowy Mountains, Thailand",
-    "city": "Bangkok",
-    "address": "Somewhere in Thailand",
-    "distance": 500,
-    "price": 99,
-    "maxGroupSize": 8,
-    "desc": "this is the description",
-    "reviews": [],
 
-    "photo": "/tour-images/tour-img03.jpg",
-    "featured": true
-  },
   {
     "title": "Jaflong, Sylhet",
     "city": "Sylhet",
-    "address": "Somewhere in Sylhet",
+    "address": "Sylhet, Bangladesh",
     "distance": 100,
-    "price": 99,
+    "price": 199,
     "maxGroupSize": 5,
-    "desc": "this is the description",
+    "desc": "Jaflong, located in Sylhet, Bangladesh, is a mesmerizing destination that showcases the harmonious blend of natural beauty and cultural heritage. Nestled at the foothills of the majestic Himalayas, it is renowned for its scenic landscapes and enchanting beauty. The crystal-clear waters of the Piyain River flow through the area, creating breathtaking waterfalls and cascades that are a sight to behold. Visitors can explore the vibrant local market, taste delicious regional cuisine, and witness the traditional stone crushing activities, which have been practiced for generations. With its stunning vistas and warm hospitality, Jaflong offers an unforgettable experience for those seeking to immerse themselves in the wonders of nature and the richness of the local culture.",
     "reviews": [],
 
     "photo": "/tour-images/tour-img08.jpg",
@@ -121,12 +108,103 @@
     "city": "Chittagong",
     "address": "Somewhere in Chittagong",
     "distance": 500,
-    "price": 99,
+    "price": 199,
     "maxGroupSize": 8,
-    "desc": "this is the description",
+    "desc": "Cox's Bazar Sea Beach, situated in Bangladesh, is a coastal paradise stretching over 120 kilometers, making it the world's longest uninterrupted natural sandy beach. Its golden sands and azure waters create a breathtaking landscape that attracts both locals and tourists alike. The beach offers a serene escape, where visitors can indulge in leisurely walks, sunbathe, or take a dip in the Bay of Bengal. With its gentle waves, colorful seashells, and stunning sunrises and sunsets, Cox's Bazar Sea Beach provides a serene and picturesque setting that leaves a lasting impression on all who visit. Additionally, nearby attractions like the Himchari National Park and Inani Beach offer further opportunities for exploration and adventure.",
     "reviews": [],
 
     "photo": "/tour-images/tour-img09.jpg",
+    "featured": false
+  },
+  {
+    "title": "Machu Picchu",
+    "city": "Peru",
+    "address": "Peru",
+    "distance": 500,
+    "price": 199,
+    "maxGroupSize": 8,
+    "desc": "Machu Picchu, the ancient Inca citadel perched high in the Andes Mountains of Peru, is a breathtaking testament to human ingenuity and natural beauty. This UNESCO World Heritage Site and one of the New Seven Wonders of the World captivates visitors with its magnificent stone structures, intricate terraces, and panoramic vistas. Stepping into the lost city, travelers are transported back in time, immersing themselves in the mysteries and spirituality of the Inca civilization. Whether exploring the Temple of the Sun, hiking the iconic Inca Trail, or simply taking in the awe-inspiring surroundings, Machu Picchu is an extraordinary destination that leaves a lasting impression and a sense of wonder in the hearts of all who visit.",
+    "reviews": [],
+
+    "photo": "/tour-images/tour-img10.jpg",
+    "featured": false
+  },
+  {
+    "title": "Railay Beach",
+    "city": "Krabi",
+    "address": "Thailand",
+    "distance": 500,
+    "price": 199,
+    "maxGroupSize": 8,
+    "desc": "Railay Beach, located in Krabi, Thailand, is a tropical paradise renowned for its stunning limestone cliffs, crystal-clear turquoise waters, and pristine sandy beaches. Accessible only by boat due to the surrounding cliffs, Railay Beach offers a secluded and tranquil escape from the bustling world. It is a haven for rock climbers, with its towering cliffs providing world-class climbing opportunities. Visitors can also enjoy snorkeling, kayaking, and relaxing on the beautiful beaches. With its breathtaking scenery and laid-back atmosphere, Railay Beach is a must-visit destination for those seeking natural beauty and outdoor adventures.",
+    "reviews": [],
+
+    "photo": "/tour-images/tour-img11.jpg",
+    "featured": false
+  },
+  {
+    "title": "Taj Mahal",
+    "city": "Agra",
+    "address": "India",
+    "distance": 500,
+    "price": 99,
+    "maxGroupSize": 8,
+    "desc": "The Taj Mahal, located in Agra, India, is an iconic masterpiece and one of the most recognized architectural wonders in the world. Built in the 17th century by Emperor Shah Jahan as a tribute to his beloved wife, it is a symbol of eternal love and beauty. The Taj Mahal's white marble facade, intricate carvings, and graceful domes create a mesmerizing sight that dazzles visitors at every angle. The surrounding gardens and reflecting pools add to its ethereal charm. As a UNESCO World Heritage Site, the Taj Mahal attracts millions of visitors each year who come to marvel at its grandeur and experience the profound sense of awe and serenity it evokes.",
+    "reviews": [],
+
+    "photo": "/tour-images/tour-img12.jpg",
+    "featured": false
+  },
+  {
+    "title": "Opera House",
+    "city": "Sydney",
+    "address": "Australia",
+    "distance": 500,
+    "price": 399,
+    "maxGroupSize": 8,
+    "desc": "The Opera House is a renowned architectural marvel located in Sydney, Australia. It is one of the most recognizable and iconic buildings in the world. Designed by Danish architect Jørn Utzon, the Opera House features a unique sail-like design that gracefully overlooks the sparkling waters of Sydney Harbour. The venue hosts a diverse range of performing arts events, including opera, ballet, concerts, and theater productions, attracting artists and audiences from around the globe. The Opera House's cultural significance, striking silhouette, and prime waterfront location make it a must-visit destination, offering visitors a chance to witness world-class performances in an extraordinary setting.",
+    "reviews": [],
+
+    "photo": "/tour-images/tour-img13.jpg",
+    "featured": false
+  },
+  {
+    "title": "The Andaman and Nicobar Islands",
+    "city": "Bay of Bengal",
+    "address": "India",
+    "distance": 500,
+    "price": 199,
+    "maxGroupSize": 8,
+    "desc": "The Andaman and Nicobar Islands are a stunning archipelago situated in the Bay of Bengal, off the eastern coast of India. This tropical paradise is known for its pristine white-sand beaches, crystal-clear turquoise waters, and lush green landscapes. With over 500 islands, the Andaman and Nicobar offer a diverse range of attractions and activities, from exploring vibrant coral reefs through snorkeling and scuba diving to visiting indigenous tribal communities and learning about their rich cultural heritage. Havelock Island, Neil Island, and Radhanagar Beach are popular destinations for their natural beauty and tranquility. Whether it's sunbathing on secluded beaches, indulging in water sports, or embarking on jungle treks, the Andaman and Nicobar Islands promise a memorable and rejuvenating experience for nature lovers and adventure seekers.",
+    "reviews": [],
+
+    "photo": "/tour-images/tour-img14.jpg",
+    "featured": false
+  },
+  {
+    "title": "Manali",
+    "city": "Himachal Pradesh",
+    "address": "India",
+    "distance": 500,
+    "price": 299,
+    "maxGroupSize": 8,
+    "desc": "Manali, located in the state of Himachal Pradesh, India, is a picturesque hill station nestled in the mighty Himalayas. Known for its breathtaking landscapes, lush valleys, and snow-capped peaks, Manali is a popular destination for nature enthusiasts and adventure seekers alike. The town offers a serene escape from city life, with attractions like the Rohtang Pass, Solang Valley, and Beas Kund showcasing the region's natural beauty. Visitors can indulge in activities such as trekking, skiing, paragliding, and rafting, or simply soak in the tranquility of the surrounding mountains. Manali also boasts charming markets, where one can explore local handicrafts, sample delicious Himachali cuisine, and experience the warm hospitality of the local people. Whether it's a winter wonderland or a summer getaway, Manali offers a magical retreat for those seeking to immerse themselves in the beauty of the Himalayas.",
+    "reviews": [],
+
+    "photo": "/tour-images/tour-img15.jpg",
+    "featured": false
+  },
+  {
+    "title": "Leaning Tower of Pisa",
+    "city": "Pisa",
+    "address": "Italy",
+    "distance": 500,
+    "price": 299,
+    "maxGroupSize": 8,
+    "desc": "The Leaning Tower of Pisa, located in Pisa, Italy, is an iconic architectural marvel that has captivated visitors for centuries. Built as a bell tower for the nearby cathedral, its distinctive tilt, caused by an unstable foundation, has made it a global symbol of architectural curiosity. The tower stands at about 56 meters tall and its white marble exterior is adorned with intricate designs. Visitors can climb to the top for panoramic views of Pisa or marvel at its leaning facade from the Piazza dei Miracoli, where it stands alongside other stunning structures like the Pisa Cathedral and Baptistery. The Leaning Tower of Pisa is a testament to human perseverance and continues to attract millions of tourists who come to witness its unique beauty and take those iconic holding up the tower photos.",
+    "reviews": [],
+
+    "photo": "/tour-images/tour-img16.jpg",
     "featured": false
   }
 ]

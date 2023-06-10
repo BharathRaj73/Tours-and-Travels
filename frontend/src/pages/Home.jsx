@@ -133,7 +133,7 @@ const Home = () => {
             <Col lg="12">
               <Subtitle subtitle={"Gallery"} />
               <h2 className="gallery__title">
-                Visit our traveller tour gallery
+                Visit our traveler tour gallery
               </h2>
             </Col>
             <Col lg="12">
