@@ -93,6 +93,12 @@
   object-fit: cover;
 }
 
+.tour__reviews h6{
+  font-size: .9rem;
+  color: var(--text-color);
+  font-weight: 400;
+}
+
 .user__reviews {
   margin-top: 2.5rem;
 }
@@ -133,5 +139,9 @@
 
   .tour__extra-details span i {
     font-size: 1rem;
+  }
+
+  .tour__reviews h6{
+    font-size: .8rem;
   }
 }
