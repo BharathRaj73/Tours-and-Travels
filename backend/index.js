@@ -18,15 +18,6 @@ const corsOptions = {
   credentials: true,
 };
 
-//vercel
-app.use(cors(
-  {
-    origin:[],
-    methods:["POST","GET"],
-    credentials:true
-  }
-  ));
-
 //database connection
 mongoose.set("strictQuery", false);
 const connect = async () => {
