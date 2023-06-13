@@ -48,7 +48,7 @@ Start the server
 ![localhost_3000_home (2)](https://github.com/BharathRaj73/Tours-and-Travels/assets/92433654/23d42529-af53-4a4f-a607-0a06b22f0cdd)
 ![localhost_3000_home (3)](https://github.com/BharathRaj73/Tours-and-Travels/assets/92433654/50fb31ef-ddb7-41af-baeb-de74a8b0af91)
 ![localhost_3000_home (4)](https://github.com/BharathRaj73/Tours-and-Travels/assets/92433654/2d19abe5-b6c3-47a2-a344-484ab87d6dd9)
-![localhost_3000_home (5)](https://github.com/BharathRaj73/Tours-and-Travels/assets/92433654/2be85f49-d353-4dbe-8021-1380aae22b5e)
+![localhost_3000_home (1)](https://github.com/BharathRaj73/Tours-and-Travels/assets/92433654/86d635ac-9966-4a5a-b679-a3ac8922325e)
 ![localhost_3000_home (6)](https://github.com/BharathRaj73/Tours-and-Travels/assets/92433654/3ba2ea0b-1fc8-4a28-bd61-44c6177c696d)
 ![localhost_3000_about](https://github.com/BharathRaj73/Tours-and-Travels/assets/92433654/182a5163-63e6-48ff-a506-8bf4b338d5b3)
 ![localhost_3000_about (1)](https://github.com/BharathRaj73/Tours-and-Travels/assets/92433654/b8c6c967-f411-4df9-9e08-fe3465e81deb)
