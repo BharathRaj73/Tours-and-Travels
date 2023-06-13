@@ -22,3 +22,32 @@
 
 
 
+
+## Run Locally
+
+Clone the project
+
+```bash
+ https://github.com/BharathRaj73/Tours-and-Travels
+```
+
+Go to the project directory
+
+```bash
+  cd backend and cd frontend
+```
+
+Install dependencies
+
+```bash
+  npm install
+```
+
+Start the server
+
+```bash
+  npm run start-dev 
+```
+
+
+## Screenshots
