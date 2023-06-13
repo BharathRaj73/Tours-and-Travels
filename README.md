@@ -1,8 +1,6 @@
-
 # Tours and Travels
 
 "Travel World" is an innovative web application developed using the MERN (MongoDB, Express.js, React.js, Node.js) stack, designed to provide users with an exceptional and seamless travel booking experience. The platform offers a wide range of featured tours and enables users to book their dream vacations while facilitating secure online payments. It incorporates essential functionalities such as user registration, login, and other convenient features to enhance the overall user experience.
-
 
 ## Tech Stack
 
@@ -10,18 +8,14 @@
 
 **Server:** MongoDB, Express, Node
 
-
 ## Features
 
-- User Registration and Login 
+- User Registration and Login
 - Featured Tours
 - Tour Filtering and Sorting
 - Tour Booking
 - Review and Ratings
 - Customer Support
-
-
-
 
 ## Run Locally
 
@@ -46,26 +40,18 @@ Install dependencies
 Start the server
 
 ```bash
-  npm run start-dev 
+  npm run start-dev
 ```
-
 
 ## Screenshots
 
-![localhost_3000_home (2)](https://github.com/BharathRaj73/Tours-and-Travels/assets/92433654/2bdbae40-b000-4a49-8150-c8030ff35c23)
-![localhost_3000_home (3)](https://github.com/BharathRaj73/Tours-and-Travels/assets/92433654/220d0129-5471-42a1-ad6d-018a56fcb2df)
-![localhost_3000_home (4)](https://github.com/BharathRaj73/Tours-and-Travels/assets/92433654/335ad08f-3329-4f5e-807c-fd7069e404e2)
-![localhost_3000_home (5)](https://github.com/BharathRaj73/Tours-and-Travels/assets/92433654/c043f454-c4d5-43be-baa3-a2932b39c648)
-![localhost_3000_home (6)](https://github.com/BharathRaj73/Tours-and-Travels/asse
-![localhost_3000_about](https://github.com/BharathRaj73/Tours-and-Travels/assets
-![localhost_3000_about](https://github.com/BharathRaj73/Tours-and-Travels/assets/92433654/12c30932-aa84-4414-b660-76d2bac2e08a)
-/92433654/e3d747ac-bb61-4e21-a5d6-2fc62b99131e)
-ts/92433654/3651e27e-e8c6-4b37-80b0-6fad6758212d)
-![localhost_3000_about (1)](https://github.com/BharathRaj73/Tours-and-Travels/assets/924336
-![localhost_3000_about (2)](https://github.com/BharathRaj73/Tours-and-Travels/assets/92433654/b059d3cb-0fac-40c6-b939-ecbd2f0e6865)
-
-![Uploading localhost_3000_regist
-![localhost_3000_login](https://github.com/BharathRaj73/Tours-and-Travels/assets/92433654/86505039-9cf8-4a57-ac55-5c9ed9ed34c7)
-er.png…]()
-54/db72e41a-c03f-4f91-8b39-f7105eb5ff88)
-
+![localhost_3000_home (2)](https://github.com/BharathRaj73/Tours-and-Travels/assets/92433654/23d42529-af53-4a4f-a607-0a06b22f0cdd)
+![localhost_3000_home (3)](https://github.com/BharathRaj73/Tours-and-Travels/assets/92433654/50fb31ef-ddb7-41af-baeb-de74a8b0af91)
+![localhost_3000_home (4)](https://github.com/BharathRaj73/Tours-and-Travels/assets/92433654/2d19abe5-b6c3-47a2-a344-484ab87d6dd9)
+![localhost_3000_home (5)](https://github.com/BharathRaj73/Tours-and-Travels/assets/92433654/2be85f49-d353-4dbe-8021-1380aae22b5e)
+![localhost_3000_home (6)](https://github.com/BharathRaj73/Tours-and-Travels/assets/92433654/3ba2ea0b-1fc8-4a28-bd61-44c6177c696d)
+![localhost_3000_about](https://github.com/BharathRaj73/Tours-and-Travels/assets/92433654/182a5163-63e6-48ff-a506-8bf4b338d5b3)
+![localhost_3000_about (1)](https://github.com/BharathRaj73/Tours-and-Travels/assets/92433654/b8c6c967-f411-4df9-9e08-fe3465e81deb)
+![localhost_3000_about (2)](https://github.com/BharathRaj73/Tours-and-Travels/assets/92433654/298269f1-8a3b-42e0-86b9-931a741fe6ed)
+![localhost_3000_register](https://github.com/BharathRaj73/Tours-and-Travels/assets/92433654/685231bc-089e-4baa-b815-4ec2cdbfb7b6)
+![localhost_3000_login](https://github.com/BharathRaj73/Tours-and-Travels/assets/92433654/f1078261-ce63-4947-88eb-f5aaab304c30)
