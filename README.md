@@ -44,3 +44,7 @@ Start the server
 ```
 
 ## Screenshots
+
+![localhost_3000_home (2)](https://github.com/BharathRaj73/Tours-and-Travels/assets/92433654/aaa43000-6adf-4c9b-adcd-4cb6ba95bec2)
+
+
